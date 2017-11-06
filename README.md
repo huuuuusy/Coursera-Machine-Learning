@@ -31,6 +31,20 @@ Currently, this repo has two major parts you may be interested in and I will giv
 
 ### Week 1: Linear Regression with One Variable
 
+- [Notes about week 1](https://github.com/huuuuusy/Coursera-Machine-Learning/tree/master/Machine%20Learning/machine%20learning%20notes/Week%201)
+
+### Week 2: Linear Regression with Multiple Variables
+	
+- [Notes about week 2](https://github.com/huuuuusy/Coursera-Machine-Learning/tree/master/Machine%20Learning/machine%20learning%20notes/Week%202)
+
+### Week 3: Logistic Regression
+
+- [Notes about week 3](https://github.com/huuuuusy/Coursera-Machine-Learning/tree/master/Machine%20Learning/machine%20learning%20notes/Week%203)
+
+### Week 4: Neural Networks: Representation
+
+- [Notes about week 4](https://github.com/huuuuusy/Coursera-Machine-Learning/tree/master/Machine%20Learning/machine%20learning%20notes/Week%204)
+
 
 
 
